@@ -1,0 +1,35 @@
+#s-899466c8-ed87-4a63-812e-948a09ee5c0e #s-Image_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-899466c8-ed87-4a63-812e-948a09ee5c0e #s-Image_3 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90) ;
+  filter: alpha(opacity=90) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-899466c8-ed87-4a63-812e-948a09ee5c0e #s-Image_2 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-899466c8-ed87-4a63-812e-948a09ee5c0e #s-Image_4 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-899466c8-ed87-4a63-812e-948a09ee5c0e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
